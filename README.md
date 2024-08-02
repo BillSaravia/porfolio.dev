@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Bill Saravia!👋</h1> 
 
 
-<p align="center"> <b><a>Website</a> / <a href="https://drive.google.com/file/d/1R9Zf7LVIFDaAKWPhUvVcK4B57pV1TuaE/view?usp=sharing">CV</a></b></p>
+<!-- <p align="center"> <b><a>Website</a> / <a href="https://drive.google.com/file/d/1NLXaTuHv-H40S4AwLV7pOtflud7BdAw_/view?usp=sharing">CV</a></b></p> -->
 
-<!-- <p align="center"> <b><a href="https://carterror.github.io/portfolio/">Website</a> / <a href="https://drive.google.com/file/d/1R9Zf7LVIFDaAKWPhUvVcK4B57pV1TuaE/view?usp=sharing">CV</a></b></p> -->
+<p align="center"> <b><a href="https://bill-saravia.vercel.app/">Website</a> / <a href="https://drive.google.com/file/d/1NLXaTuHv-H40S4AwLV7pOtflud7BdAw_/view?usp=sharing">CV</a></b></p>
 
 
 ## About Me
